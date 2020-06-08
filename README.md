@@ -1,2 +1,0 @@
-# LudoGame
-JAVA COURSE PROJECT
